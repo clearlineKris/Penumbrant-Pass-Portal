@@ -1,4 +1,4 @@
-# Penumbrant Papers
+# Penumbrant Pages: Specialized & Focused Info Pieces Detailing on Penumbrae across the Cannabis Industruy
 
 **Part of the Penumbrant-Pass-Portal**
 
@@ -39,12 +39,12 @@ Each Penumbrant Paper follows a consistent structure:
 
 - **Introduction**: Context, scope, and central questions
 - **Main Sections**: Detailed analysis organized by theme
-  - Statutory and Regulatory Ambiguities
-  - Enforcement Discretion
-  - Multi-Jurisdictional Tensions
-  - Case Studies and Real-World Implications
-  - Stakeholder Asymmetry Analysis
-- **Conclusion**: Summary, implications, and navigation guidance
+  - a. Statutory and Regulatory Ambiguities
+  - b. Enforcement Discretion
+  - c. Multi-Jurisdictional Tensions
+  - d. Case Studies and Real-World Implications
+  - e. Stakeholder Asymmetry Analysis
+- **Conclusion**: Summary, implications (on operations and posture) & navigation guidance
 
 ---
 
@@ -62,19 +62,23 @@ As outlined in the [updated guidance](../pull_request_comments/1.md), Penumbrant
 
 ## Disclaimer
 
-All documents in this series are part of the Penumbrant-Pass-Portal and provide customized insights based on real legal statute and regulatory frameworks. These are NOT legal advice, nor should they be construed as such. Operators should consult licensed attorneys in their jurisdiction for specific legal guidance.
+All documents in this series are part of the Penumbrant-Pass-Portal and provide customized insights based on real legal statute and regulatory frameworks. Please bear in mind that information included in all of these documents are NOT legal advice, nor should they be construed as such. 
+
+Operators should consult licensed attorneys in their jurisdiction for specific legal guidance.
 
 ---
 
 ## Contributing
 
 These papers are structured skeletons designed to facilitate further elaboration. Contributions that add:
-- State-specific case studies
-- Relevant case law and citations
-- Real-world examples and enforcement data
-- Regulatory guidance documents
+
+- Detail re: state-specific case studies
+- Relevant case law and citations (which are always ALWAYS welcome)
+- Real-world examples and enforcement data (which is even MORE welcome!)
+- Regulatory guidance documents (whatver you know to be accurate copy at a time of contribution)
 
 ...are welcome. Please see [CONTRIBUTING.md](../CONTRIBUTING.md) for guidelines.
+Thank you in advance for expanding the beacon light exposing penumbrance. 
 
 ---
 
