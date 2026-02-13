@@ -1,14 +1,23 @@
-# Contributing to ClearLine-RegForge
+# Contributing to Potent Penaural Library
 
-Thank you for your interest in contributing! Contributions help improve the library and templates for regulated operators. Please follow these guidelines.
+Thank you for considering contributing to Potent Penaural Library! We appreciate your support and commitment.
 
-1. Fork the repository and create a descriptive branch (e.g., `feature/add-co-resource` or `fix/typo`).
-2. Make small, focused changes and include tests or examples when appropriate.
-3. Keep commit messages clear. Use present-tense, and reference issues when relevant.
-4. Open a pull request against `main` with a clear description of the change and any testing steps.
+## Getting Started
 
-If you are submitting regulatory content or state-specific guidance, include sources and links.
+To get started, please ensure you have the following prerequisites:
+1. Basic knowledge of programming and Git.
+2. Python installed on your system.
+3. Familiarity with how to create and manage Git branches.
 
-For security or sensitive issues, see SECURITY.md.
+## Contribution Guidelines
 
-Contact: kgs.admn@gmail.com
+1. Fork the repository to your own GitHub account.
+2. Clone the forked repository to your local machine.
+3. Create a new branch for your work.
+4. Make changes and ensure they follow the established coding standards.
+5. Commit your changes with a clear message.
+6. Push the changes to your forked repository.
+7. Open a pull request to the main repository.
+8. Email contributions to: tvk.hrzn+pnb@gmail.com (please replace kgs.admn@gmail.com).
+
+Thank you for contributing! We look forward to your input and ideas!
