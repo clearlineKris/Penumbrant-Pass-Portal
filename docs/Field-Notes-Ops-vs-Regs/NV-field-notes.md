@@ -3,7 +3,7 @@
 ## Tourism Infrastructure Meets Cannabis Compliance
 
 **State:** Nevada (NV)  
-**Series:** Field Notes: Ops vs Regs - Potent Penaural Library  
+**Series:** Field Notes: Ops vs Regs - Penumbrant-Pass-Portal  
 **Focus:** Operational Practice vs. Regulatory Requirements
 
 ---

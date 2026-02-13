@@ -3,7 +3,7 @@
 ## The Pioneer's Paradox: Navigating Colorado's Evolving Cannabis Framework
 
 **State:** Colorado (CO)  
-**Series:** Margin Notes - Potent Penaural Library  
+**Series:** Margin Notes - Penumbrant-Pass-Portal  
 **Focus:** Regulatory Ambiguities & Gray Areas
 
 ---

@@ -3,7 +3,7 @@
 ## The Tourism Trap: Balancing Visitor Access with Local Control
 
 **State:** Nevada (NV)  
-**Series:** Margin Notes - Potent Penaural Library  
+**Series:** Margin Notes - Penumbrant-Pass-Portal  
 **Focus:** Regulatory Ambiguities & Gray Areas
 
 ---

@@ -3,7 +3,7 @@
 ## The Traceability Tangle: Washington's Control vs. Compliance Balance
 
 **State:** Washington (WA)  
-**Series:** Margin Notes - Potent Penaural Library  
+**Series:** Margin Notes - Penumbrant-Pass-Portal  
 **Focus:** Regulatory Ambiguities & Gray Areas
 
 ---

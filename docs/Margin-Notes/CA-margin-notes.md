@@ -3,7 +3,7 @@
 ## The Regulatory Labyrinth: Three-Agency Coordination and California Chaos
 
 **State:** California (CA)  
-**Series:** Margin Notes - Potent Penaural Library  
+**Series:** Margin Notes - Penumbrant-Pass-Portal  
 **Focus:** Regulatory Ambiguities & Gray Areas
 
 ---

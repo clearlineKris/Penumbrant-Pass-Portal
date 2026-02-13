@@ -3,7 +3,7 @@
 ## The East Coast Experiment: Medical Legacy Meets Adult-Use Reality
 
 **State:** Massachusetts (MA)  
-**Series:** Margin Notes - Potent Penaural Library  
+**Series:** Margin Notes - Penumbrant-Pass-Portal  
 **Focus:** Regulatory Ambiguities & Gray Areas
 
 ---

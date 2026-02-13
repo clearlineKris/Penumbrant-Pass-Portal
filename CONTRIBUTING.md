@@ -1,6 +1,6 @@
-# Contributing to Potent Penaural Library
+# Contributing to Penumbrant-Pass-Portal
 
-Thank you for considering contributing to Potent Penaural Library! We appreciate your support and commitment.
+Thank you for considering contributing to Penumbrant-Pass-Portal! We appreciate your support and commitment.
 
 ## Getting Started
 
@@ -18,6 +18,6 @@ To get started, please ensure you have the following prerequisites:
 5. Commit your changes with a clear message.
 6. Push the changes to your forked repository.
 7. Open a pull request to the main repository.
-8. Email contributions to: tvk.hrzn+pnb@gmail.com (please replace kgs.admn@gmail.com).
+8. Email contributions to: tvk.hrzn+pnb@gmail.com.
 
 Thank you for contributing! We look forward to your input and ideas!
