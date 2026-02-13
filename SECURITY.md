@@ -1,6 +1,6 @@
 # Security Policy
 
-Report vulnerabilities privately: k@kgracia.com (Subject: "RegForge Security")
+Report vulnerabilities privately: tvk.hrzn+pnb@gmail.com (Subject: "Penumbrant-Pass-Portal Security")
 
 Include:
 - Affected file/path

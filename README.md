@@ -1,53 +1,36 @@
-# ClearLine-RegForge™
+# Penumbrant-Pass-Portal
 
-**State-specific & Commonality-based Crafted Precision Compliance Library**
+## Introduction
 
-Forge your compliance from Reg Bibles + Engine templates.
+This library provides access to various resources and information on potent penaural practices.  
 
-## Free Library
+## Margin Notes
 
-- [CO Reg Bible v1.0](docs/Reg-Bibles/CO-Reg-Bible-v1.0.md)
-- [KiloKeep™ Checklist](engines/KiloKeep-CO-Checklist.md)
-- [PRFCTpack™ Rules](engines/PRFCTpack-CO-Rules.md)
+- [[CO__Margin_Notes]](docs/Margin-Notes/CO-margin-notes.md) - The Pioneer's Paradox: Navigating Colorado's Evolving Cannabis Framework
+- [[CA__Margin_Notes]](docs/Margin-Notes/CA-margin-notes.md) - The Regulatory Labyrinth: Three-Agency Coordination and California Chaos
+- [[WA__Margin_Notes]](docs/Margin-Notes/WA-margin-notes.md) - The Traceability Tangle: Washington's Control vs. Compliance Balance
+- [[OR__Margin_Notes]](docs/Margin-Notes/OR-margin-notes.md) - The Oversupply Enigma: Oregon's Market Maturity and Regulatory Response
+- [[NV__Margin_Notes]](docs/Margin-Notes/NV-margin-notes.md) - The Tourism Trap: Balancing Visitor Access with Local Control
+- [[MA__Margin_Notes]](docs/Margin-Notes/MA-margin-notes.md) - The East Coast Experiment: Medical Legacy Meets Adult-Use Reality
+- [[IL__Margin_Notes]](docs/Margin-Notes/IL-margin-notes.md) - The Social Equity Laboratory: When Policy Goals Meet Market Reality
+- [[MI__Margin_Notes]](docs/Margin-Notes/MI-margin-notes.md) - The Rapid Expansion Problem: When Market Growth Outpaces Regulatory Clarity  
 
-## Penumbrant Papers
+## Field Notes
 
-Comprehensive regulatory analysis identifying uncertainty zones in cannabis compliance.
+- [[CO__Field_Notes]](docs/Field-Notes-Ops-vs-Regs/CO-field-notes.md) - When Pioneer Regulations Meet Operational Reality
+- [[CA__Field_Notes]](docs/Field-Notes-Ops-vs-Regs/CA-field-notes.md) - Three-Agency Coordination and Operational Chaos
+- [[WA__Field_Notes]](docs/Field-Notes-Ops-vs-Regs/WA-field-notes.md) - Traceability Theory Meets Cultivation Reality
+- [[OR__Field_Notes]](docs/Field-Notes-Ops-vs-Regs/OR-field-notes.md) - Oversupply Meets Regulatory Design for Scarcity
+- [[NV__Field_Notes]](docs/Field-Notes-Ops-vs-Regs/NV-field-notes.md) - Tourism Infrastructure Meets Cannabis Compliance
+- [[MA__Field_Notes]](docs/Field-Notes-Ops-vs-Regs/MA-field-notes.md) - Progressive Policy Meets Implementation Reality
+- [[IL__Field_Notes]](docs/Field-Notes-Ops-vs-Regs/IL-field-notes.md) - Social Equity Aspirations Meet Market Mechanics
+- [[MI__Field_Notes]](docs/Field-Notes-Ops-vs-Regs/MI-field-notes.md) - Rapid Market Growth and Regulatory Adaptation  
 
-| State | Full Paper | One-Pager |
-|-------|-----------|-----------|
-| **Colorado (CO)** | [CO Penumbrant Paper v1.0](docs/Penumbrant-Papers/CO-Penumbrant-Paper-v1.0.md) | [CO One-Pager](docs/Penumbrant-One-Pagers/CO-Penumbrant-OnePager-v1.0.md) |
-| **Minnesota (MN)** | [MN Penumbrant Paper v1.0](docs/Penumbrant-Papers/MN-Penumbrant-Paper-v1.0.md) | [MN One-Pager](docs/Penumbrant-One-Pagers/MN-Penumbrant-OnePager-v1.0.md) |
-| **Michigan (MI)** | [MI Penumbrant Paper v1.0](docs/Penumbrant-Papers/MI-Penumbrant-Paper-v1.0.md) | [MI One-Pager](docs/Penumbrant-One-Pagers/MI-Penumbrant-OnePager-v1.0.md) |
-| **Georgia (GA)** | [GA Penumbrant Paper v1.0](docs/Penumbrant-Papers/GA-Penumbrant-Paper-v1.0.md) | [GA One-Pager](docs/Penumbrant-One-Pagers/GA-Penumbrant-OnePager-v1.0.md) |
+## Conclusion
 
-## ORA Reports
+This library serves as a comprehensive resource for those interested in penetrating the gray areas within 
+canna-law. As the world changes, so does cannabis policy. This repo is a way to get ahead of regulators who 
+are overzealous and who simply have nothing better to do on any given day. 
 
-**Operator vs. Regulator Asymmetry (ORA)** — Comprehensive reports analyzing how policy and enforcement differ in cannabis regulation.
-
-| State | ORA Report |
-|-------|------------|
-| **Colorado (CO)** | [CO ORA Report v1.0](docs/ORA-Reports/CO-ORA-Report-v1.0.md) |
-| **Minnesota (MN)** | [MN ORA Report v1.0](docs/ORA-Reports/MN-ORA-Report-v1.0.md) |
-| **Michigan (MI)** | [MI ORA Report v1.0](docs/ORA-Reports/MI-ORA-Report-v1.0.md) |
-| **Georgia (GA)** | [GA ORA Report v1.0](docs/ORA-Reports/GA-ORA-Report-v1.0.md) |
-
-## Example Precision Check
-
-[3 CO vapes → 2 issues found](examples/CO-3SKU-PrecisionCheck-v1.0.md)
-
-## Precision Stage → DM "Free Check" (kgs.admn@gmail.com)
-
----
-
-## Disclaimer
-
-**Informational Only**: RegForge provides regulatory references, checklists, and compliance patterns. This is **NOT** legal advice. Consult licensed counsel for your operations.
-
-**No Warranties**: Use at your own risk. ClearLine makes no guarantees of regulatory acceptance.
-
-**Data Privacy**: No data collection. Client docs stay with you.
-
----
-
-**License**: MIT — see LICENSE file.
+The importance of understanding the gray area of law is to work with it not against it. 
+So, use this as a resource to make sure that you are always operating, in good faith. 
