@@ -1,12 +1,12 @@
 # The METRC Data Sovereignty Paradox
 
-**Part of the Potent Penaural Library**  
+**Part of the Penumbrant-Pass-Portal**  
 *Exploring who owns compliance data in cannabis tracking systems*
 
 ---
 
 ## Disclaimer
-This document is part of the Potent Penaural Library and provides customized insights based on real legal statute and regulatory frameworks. This is NOT legal advice, nor should it be construed as such. Operators should consult licensed attorneys in their jurisdiction for specific legal guidance.
+This document is part of the Penumbrant-Pass-Portal and provides customized insights based on real legal statute and regulatory frameworks. This is NOT legal advice, nor should it be construed as such. Operators should consult licensed attorneys in their jurisdiction for specific legal guidance.
 
 ---
 
@@ -198,4 +198,4 @@ This document is part of the Potent Penaural Library and provides customized ins
 
 **Document Version**: 1.0  
 **Last Updated**: February 2026  
-**Contact**: kgs.admn@gmail.com
+**Contact**: tvk.hrzn+pnb@gmail.com

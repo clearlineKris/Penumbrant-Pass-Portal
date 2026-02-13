@@ -3,7 +3,7 @@
 ## The Social Equity Laboratory: When Policy Goals Meet Market Reality
 
 **State:** Illinois (IL)  
-**Series:** Margin Notes - Potent Penaural Library  
+**Series:** Margin Notes - Penumbrant-Pass-Portal  
 **Focus:** Regulatory Ambiguities & Gray Areas
 
 ---

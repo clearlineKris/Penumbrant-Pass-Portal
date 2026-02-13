@@ -3,7 +3,7 @@
 ## Oversupply Meets Regulatory Design for Scarcity
 
 **State:** Oregon (OR)  
-**Series:** Field Notes: Ops vs Regs - Potent Penaural Library  
+**Series:** Field Notes: Ops vs Regs - Penumbrant-Pass-Portal  
 **Focus:** Operational Practice vs. Regulatory Requirements
 
 ---

@@ -3,7 +3,7 @@
 ## The Oversupply Enigma: Oregon's Market Maturity and Regulatory Response
 
 **State:** Oregon (OR)  
-**Series:** Margin Notes - Potent Penaural Library  
+**Series:** Margin Notes - Penumbrant-Pass-Portal  
 **Focus:** Regulatory Ambiguities & Gray Areas
 
 ---

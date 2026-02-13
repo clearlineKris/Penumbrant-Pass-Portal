@@ -1,6 +1,6 @@
 # Penumbrant Papers
 
-**Part of the Potent Penaural Library**
+**Part of the Penumbrant-Pass-Portal**
 
 ---
 
@@ -62,7 +62,7 @@ As outlined in the [updated guidance](../pull_request_comments/1.md), Penumbrant
 
 ## Disclaimer
 
-All documents in this series are part of the Potent Penaural Library and provide customized insights based on real legal statute and regulatory frameworks. These are NOT legal advice, nor should they be construed as such. Operators should consult licensed attorneys in their jurisdiction for specific legal guidance.
+All documents in this series are part of the Penumbrant-Pass-Portal and provide customized insights based on real legal statute and regulatory frameworks. These are NOT legal advice, nor should they be construed as such. Operators should consult licensed attorneys in their jurisdiction for specific legal guidance.
 
 ---
 
@@ -80,7 +80,7 @@ These papers are structured skeletons designed to facilitate further elaboration
 
 ## Contact
 
-**Email**: kgs.admn@gmail.com
+**Email**: tvk.hrzn+pnb@gmail.com
 
 ---
 
