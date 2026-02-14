@@ -1,6 +1,6 @@
 # Security Policy
 
-Report vulnerabilities privately: tvk.hrzn+pnb@gmail.com (Subject: "Penumbrant-Pass-Portal Security")
+Report vulnerabilities privately: tvk.hrzn+pnb@gmail.com (Subject: "Grey Matter Index Security")
 
 Include:
 - Affected file/path
