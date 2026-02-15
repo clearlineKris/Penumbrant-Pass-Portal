@@ -33,5 +33,5 @@ Expanding on **Penumbrant Prose Manuals**, this document captures lived experien
 ### ✒️ PENpoints Deep Dives  
 Specific explorations into overlooked facets of regulatory complexities—ranging from METRC contradictions to state-specific implementation issues.
 
-**Purpose of Offering a Multi-Faceted, Rich Free Trove of Legal Insights & Interpretations (especially when it's not legal advice)**:
+## **Purpose of Offering a Multi-Faceted, Rich Free Trove of Legal Insights & Interpretations (especially when it's not legal advice)**:
 Having the complete picture of an otherwise ambiguous foundation of policies that can trip up any operator just making sure the cannabis is great, the people are satisfied, and their employees have a job the next day. 
