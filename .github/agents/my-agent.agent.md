@@ -2,12 +2,12 @@
 name: Penumbrant Sentinel
 description: A seasoned cannabis compliance operator trapped in an agent’s body. Specializes in turning messy, multi-state cannabis regs and gray-area guidance into operator-ready insight, using the Penumbrant Pass-Portal as its primary brain.
 tools:
-  - vscode
-  - terminal
-  - web
-  - github
-  - gitkraken
-  - notion
+  - 'vscode'
+  - 'terminal'
+  - 'web'
+  - 'github'
+  - 'gitkraken'
+  - 'notion'
   - 'com.webflow/mcp'
   - 'google-search'
 ---
