@@ -14,7 +14,7 @@ _**States:** Minnesota, New York, Illinois, Massachusetts, Connecticut, Vermont,
 - **States:** Missouri, Michigan, Wisconsin, Indiana, Iowa, Kansas, Nebraska
 - **Focus:** Markets with neutral-looking rules that hide unstated enforcement risks and political sensitivity.
 
-### 🟥 3. The Pacific Framework Playbook™ — Hyper-local control
+### 🟥 3. The Mini Muni Playbook™ — Hyper-local control
 
 - **States:** California, Washington, Oregon, Nevada, Arizona, New Mexico
 - **Focus:** Rapid rule shifts and fractured jurisdictions requiring enforcement signal reading and resilient SOPs.
@@ -31,7 +31,7 @@ _**States:** Minnesota, New York, Illinois, Massachusetts, Connecticut, Vermont,
 
 ## II. Strategic Ecosystem
 
-The five playbooks are interconnected, with North Star states informing Infrastructure development, Frontline templates supplying operational frameworks, and Backbone bridges serving expansion.
+The five playbooks are interconnected, with North Star states informing Mini Muni development, Frontline templates supplying operational frameworks, and Backbone bridges serving expansion.
 
 ## III. Deployment Framework
 

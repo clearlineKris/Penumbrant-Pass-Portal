@@ -36,7 +36,7 @@ All Markdown files MUST include:
 task_id: CL-XXX-NNN
 division: CL-PROTOCOL-LEXICON (or relevant division)
 status: Active/Archived
-owner: KCGS
+owner: TVK
 version: 1.0 (Jimmy System tracking)
 ---
 ```
