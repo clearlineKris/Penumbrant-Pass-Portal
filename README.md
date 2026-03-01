@@ -1,4 +1,4 @@
-ClearLine Regulatory Intelligence — The Grey Matter Praxis
+# ClearLine Regulatory Intelligence — The Grey Matter Praxis
 
 The intelligence archive. The methodology, demonstrated.
 
