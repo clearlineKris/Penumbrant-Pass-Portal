@@ -12,32 +12,40 @@ The Grey-Matter-Praxis is the public record of that work — a versioned, struct
 
 *It is not a summary. It is not a checklist. It is the full document stack, organized by type and updated as the regulatory landscape moves.*
 
-This is what ClearLine *produces*. This is how ClearLine **thinks"**.
+This is what ClearLine *produces*. This is how ClearLine **thinks**.
 
 
 ## The Knowledge Moat Stack
 ClearLine's intelligence methodology outputs seven document types, each serving a distinct function in the complete regulatory picture:
 
-1 📜 LOTL Stack — **Letter of the Law**
+### 1 📜 LOTL Stack — **Letter of the Law**
+
 The statutory foundation. Official statutes, regulation numbers, settled legal frameworks, and their operational implications. The law everyone knows, documented with precision.
 
-2 🤭 Lil LOTL Stack
+### 2 🤭 Lil LOTL Stack
+
 A calibrated summary of the most consequential statutory provisions relative to current state and industry trends. The signal extracted from the noise of the full statute.
 
-3 🌑 Penumbrant Prose
+### 3 🌑 Penumbrant Prose
+
 The regulatory shadows. Gaps, ambiguities, enforcement uncertainties, and risk surfaces that the statute doesn't resolve. Where the law ends and regulator discretion begins.
 
-4 🥬 Field Notes
+### 4 🥬 Field Notes
+
 The on-the-ground layer. Lived operator experiences, compliance challenges, and field feedback that the statute doesn't capture but enforcement behavior reflects.
 
-5 📄 Margin Notes
+### 5 📄 Margin Notes
+
 The winds of change surrounding cannabis policy, translated. A comprehensive read of one state's policy terrain — historical political climate, ongoing influences, and the forces actively shaping regulatory direction.
 
-6 💼 Penumbrant Executive Briefs (EBs)
+### 6 💼 Penumbrant Executive Briefs (EBs)
+
 The gray area, made executive-ready. High-level synthesis of the most pressing ambiguities and findings, written for decision-makers who need clarity without the full archive.
 
-7 ✒️ PENpoints Dispatch
-Focused explorations of specific overlooked complexities — METRC contradictions, state-specific implementation failures, enforcement pattern anomalies, and the regulatory details that operators trip on when they're not looking.
+### 7 ✒️ PENpoints Dispatch
+
+Focused explorations of specific overlooked 
+complexities — METRC contradictions, state-specific implementation failures, enforcement pattern anomalies, and the regulatory details that operators trip on when they're not looking.
 
 ---
 ## Why This Exists as a Public Archive
