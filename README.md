@@ -1,16 +1,18 @@
 ClearLine Regulatory Intelligence — The Grey Matter Praxis
 
 The intelligence archive. The methodology, demonstrated.
+
 ---
 
 Most compliance resources tell you what the law says.
 
 ClearLine tells you what the law *says*, where it's unclear, how regulators have actually behaved, and what that means for your operation right now.
-Grey-Matter-Praxis is the public record of that work — a versioned, structured intelligence archive covering cannabis-regulated markets across jurisdictions. 
+
+The Grey-Matter-Praxis is the public record of that work — a versioned, structured intelligence archive covering cannabis-regulated markets across jurisdictions. 
 
 *It is not a summary. It is not a checklist. It is the full document stack, organized by type and updated as the regulatory landscape moves.*
 
-This is what ClearLine *produces*. This is how ClearLine **thinks"*.
+This is what ClearLine *produces*. This is how ClearLine **thinks"**.
 
 
 ## The Knowledge Moat Stack
